@@ -1,2 +1,2 @@
 # ionicGithubViewer
-GitHub profile and repository viewer built with ionic
+Android app GitHub profile and repository viewer built with ionic
